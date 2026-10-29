@@ -1,13 +1,17 @@
 # Första världen
 
+**Alla får spela. Alla får skapa. Gratis. Från William Rydh till er alla.**
+
+[Spela gratis i webbläsaren](https://forsta-varlden.pages.dev/) · För dator med tangentbord och mus. Inget konto, ingen reklam.
+
 Ett öppet bygg- och överlevnadsspel med grävbar värld, ett eget husdjur och tre teman: **Halloween**, **Christmas** och **Summer**. Varje tema har egna originalljud.
 
 ## Ladda ned
 
-| Dator | Version 0.3.1 |
+| Dator | Version 0.3.3 |
 |---|---|
-| Mac · Intel och Apple Silicon | [Ladda ned för Mac](https://github.com/willrydh/forsta-varlden-updates/releases/download/v0.3.1/ForstaVarlden-0.3.1-macOS.zip) |
-| Windows | [Ladda ned för Windows](https://github.com/willrydh/forsta-varlden-updates/releases/download/v0.3.1/ForstaVarlden-0.3.1-Windows.zip) |
+| Mac · Intel och Apple Silicon | [Ladda ned för Mac](https://github.com/willrydh/forsta-varlden-updates/releases/download/v0.3.3/ForstaVarlden-0.3.3-macOS.zip) |
+| Windows | [Ladda ned för Windows](https://github.com/willrydh/forsta-varlden-updates/releases/download/v0.3.3/ForstaVarlden-0.3.3-Windows.zip) |
 
 [Senaste versionen och versionsnyheter](https://github.com/willrydh/forsta-varlden-updates/releases/latest)
 
@@ -33,4 +37,4 @@ Därefter söker spelet automatiskt efter innehållsuppdateringar och hämtar ny
 
 ## Web-filer
 
-Web-ZIP-filen bland nedladdningarna innehåller filer för att lägga spelet på en webbserver. Det finns ännu ingen fungerande publik spelwebb att öppna här.
+Web-ZIP-filen bland nedladdningarna innehåller filer för att lägga spelet på en webbserver. Den publika speladressen är [forsta-varlden.pages.dev](https://forsta-varlden.pages.dev/). Webbversionen uppdateras när sidan laddas om. Världen sparas lokalt i just den webbläsaren och synkas inte med appen eller andra datorer.
