@@ -8,10 +8,10 @@ Ett öppet bygg- och överlevnadsspel med grävbar värld, ett eget husdjur och 
 
 ## Ladda ned
 
-| Dator | Version 0.3.3 |
+| Dator | Senaste versionen |
 |---|---|
-| Mac · Intel och Apple Silicon | [Ladda ned för Mac](https://github.com/willrydh/forsta-varlden-updates/releases/download/v0.3.3/ForstaVarlden-0.3.3-macOS.zip) |
-| Windows | [Ladda ned för Windows](https://github.com/willrydh/forsta-varlden-updates/releases/download/v0.3.3/ForstaVarlden-0.3.3-Windows.zip) |
+| Mac · Intel och Apple Silicon | [Ladda ned för Mac](https://forsta-varlden.pages.dev/downloads/latest/macos) |
+| Windows | [Ladda ned för Windows](https://forsta-varlden.pages.dev/downloads/latest/windows) |
 
 [Senaste versionen och versionsnyheter](https://github.com/willrydh/forsta-varlden-updates/releases/latest)
 
