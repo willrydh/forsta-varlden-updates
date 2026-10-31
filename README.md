@@ -2,9 +2,11 @@
 
 **Alla får spela. Alla får skapa. Gratis. Från William Rydh till er alla.**
 
-[Spela gratis i webbläsaren](https://forsta-varlden.pages.dev/) · För dator med tangentbord och mus. Inget konto, ingen reklam.
+[Spela gratis i webbläsaren](https://forsta-varlden.pages.dev/) · Dator, mobil och surfplatta. Inget konto, ingen reklam.
 
-Ett öppet bygg- och överlevnadsspel med grävbar värld, ett eget husdjur och tre teman: **Halloween**, **Christmas** och **Summer**. Varje tema har egna originalljud.
+Ett öppet bygg- och överlevnadsspel med grävbar värld, ett eget husdjur och tre teman: **Halloween**, **Christmas** och **Summer**. Varje tema har egna natur- och stämningsljud samt musikinslag.
+
+Alla spelar i samma offentliga värld. Grisar, kor och kaniner är fredliga och ger mat när du jagar dem. De attackerar aldrig. Mat kan ätas, bli matsäck eller ges till ditt husdjur. Bär finns också kvar.
 
 ## Ladda ned
 
@@ -21,7 +23,7 @@ Godot behöver inte installeras för att spela.
 
 Packa upp ZIP-filen och öppna **Första världen.app**. Du kan lägga appen i **Program**.
 
-Appen är lokalt signerad och ännu inte notariserad av Apple. Om macOS blockerar den: försök öppna appen en gång, gå sedan till **Systeminställningar → Integritet och säkerhet** och välj **Öppna ändå** för Första världen.
+Appen är lokalt signerad och ännu inte notariserad av Apple. Det kan ge varningen **”Apple kan inte kontrollera om appen innehåller skadlig programvara”**. Om du vill godkänna appen från vår nedladdning: försök öppna den en gång, gå sedan till **Systeminställningar → Integritet och säkerhet** och välj **Öppna ändå** för Första världen. Den här hjälpen gäller just varningen om att Apple inte kan kontrollera appen. Du kan också spela direkt i webbläsaren.
 
 ## Starta på Windows
 
@@ -37,4 +39,4 @@ Därefter söker spelet automatiskt efter innehållsuppdateringar och hämtar ny
 
 ## Web-filer
 
-Web-ZIP-filen bland nedladdningarna innehåller filer för att lägga spelet på en webbserver. Den publika speladressen är [forsta-varlden.pages.dev](https://forsta-varlden.pages.dev/). Webbversionen uppdateras när sidan laddas om. Världen sparas lokalt i just den webbläsaren och synkas inte med appen eller andra datorer.
+Web-ZIP-filen bland nedladdningarna innehåller filer för att lägga spelet på en webbserver. Den publika speladressen är [forsta-varlden.pages.dev](https://forsta-varlden.pages.dev/). Webbversionen uppdateras när sidan laddas om. Gemensam terräng, invånare och jakt sparas på servern. Varje enhet och webbläsare har en egen anonym spelare, så behåll webbplatsens data. Äldre privata världar finns kvar lokalt och laddas inte upp. Internet behövs medan du spelar.
