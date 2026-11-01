@@ -1,42 +1,77 @@
-# Första världen
+# First World
 
-**Alla får spela. Alla får skapa. Gratis. Från William Rydh till er alla.**
+<img src="https://forsta-varlden.pages.dev/first-world-logo.png" width="440" alt="First World">
 
-[Spela gratis i webbläsaren](https://forsta-varlden.pages.dev/) · Dator, mobil och surfplatta. Inget konto, ingen reklam.
+A free open world to explore, dig and build together. Make a home, bring a pet,
+build a railway or turn ordinary blocks into working circuits. Everyone is welcome.
 
-Ett öppet bygg- och överlevnadsspel med grävbar värld, ett eget husdjur och tre teman: **Halloween**, **Christmas** och **Summer**. Varje tema har egna natur- och stämningsljud samt musikinslag.
+**From William Rydh to all of you.**
 
-Alla spelar i samma offentliga värld. Grisar, kor och kaniner är fredliga och ger mat när du jagar dem. De attackerar aldrig. Mat kan ätas, bli matsäck eller ges till ditt husdjur. Bär finns också kvar.
+[Play in your browser](https://forsta-varlden.pages.dev/play/) ·
+[Visit the website](https://forsta-varlden.pages.dev/) ·
+[Download the desktop app](https://github.com/willrydh/forsta-varlden-updates/releases/latest)
 
-## Ladda ned
+First World is still growing. This repository provides official downloads,
+release notes and the signed update feed.
 
-| Dator | Senaste versionen |
-|---|---|
-| Mac · Intel och Apple Silicon | [Ladda ned för Mac](https://forsta-varlden.pages.dev/downloads/latest/macos) |
-| Windows | [Ladda ned för Windows](https://forsta-varlden.pages.dev/downloads/latest/windows) |
+## Play on phone, tablet or computer
 
-[Senaste versionen och versionsnyheter](https://github.com/willrydh/forsta-varlden-updates/releases/latest)
+Open [First World](https://forsta-varlden.pages.dev/play/) and stay connected to
+the internet while playing. No account or purchase is required.
 
-Godot behöver inte installeras för att spela.
+On a phone or tablet, turn the device sideways. Use **Play without browser bars**
+for instructions to add the game to your Home Screen. You do not need an app store
+or the Godot editor.
 
-## Starta på Mac
+<a id="starta-på-mac"></a>
 
-Packa upp ZIP-filen och öppna **Första världen.app**. Du kan lägga appen i **Program**.
+## Install on Mac
 
-Appen är lokalt signerad och ännu inte notariserad av Apple. Det kan ge varningen **”Apple kan inte kontrollera om appen innehåller skadlig programvara”**. Om du vill godkänna appen från vår nedladdning: försök öppna den en gång, gå sedan till **Systeminställningar → Integritet och säkerhet** och välj **Öppna ändå** för Första världen. Den här hjälpen gäller just varningen om att Apple inte kan kontrollera appen. Du kan också spela direkt i webbläsaren.
+1. Download the **macOS ZIP** from the
+   [latest release](https://github.com/willrydh/forsta-varlden-updates/releases/latest).
+   It supports both Apple Silicon and Intel Macs.
+2. Unzip it, then move **First World.app** to your Applications folder and open it.
+3. The app is locally signed and is not yet notarized by Apple. If macOS blocks
+   the first launch, first try opening the app, then open **System Settings →
+   Privacy & Security** and choose **Open Anyway** for First World. Confirm the
+   system prompt to open it.
 
-## Starta på Windows
+Apple explains this procedure in its
+[Mac app security guide](https://support.apple.com/en-us/102445).
 
-Packa upp hela ZIP-filen. Låt **ForstaVarlden.exe** och **ForstaVarlden.pck** ligga tillsammans i samma mapp och öppna **ForstaVarlden.exe**.
+## Install on Windows
 
-Windows-versionens körning är ännu inte verifierad.
+Download the **Windows ZIP** from the
+[latest release](https://github.com/willrydh/forsta-varlden-updates/releases/latest),
+extract the entire folder and run **ForstaVarlden.exe**. Keep the extracted files
+together. The Windows build has not yet been play-tested on Windows.
 
-## Har du version 0.2?
+## Getting updates
 
-Avsluta spelet och installera den nya appen manuellt en gång för att få den inbyggda uppdateraren. Dina världar sparas lokalt utanför appen och bevaras vid uppdatering på samma dator.
+The desktop app checks for updates and downloads them automatically. A running
+game keeps its current version. Once an update is ready, fully quit and reopen
+the app to use it. On Mac, use **⌘Q**; closing the window alone may leave the app
+running. You can also check the update section in the game menu.
 
-Därefter söker spelet automatiskt efter innehållsuppdateringar och hämtar nya paket. Paketen verifieras med en digital signatur och börjar användas nästa gång du startar spelet. Du kan också kontrollera uppdateringar i spelmenyn.
+For the browser or Home Screen app, close and reopen the game, or reload the page.
+You do not need to clear stored data to update.
 
-## Web-filer
+## Your player and your world
 
-Web-ZIP-filen bland nedladdningarna innehåller filer för att lägga spelet på en webbserver. Den publika speladressen är [forsta-varlden.pages.dev](https://forsta-varlden.pages.dev/). Webbversionen uppdateras när sidan laddas om. Gemensam terräng, invånare och jakt sparas på servern. Varje enhet och webbläsare har en egen anonym spelare, så behåll webbplatsens data. Äldre privata världar finns kvar lokalt och laddas inte upp. Internet behövs medan du spelar.
+Everyone joins the same public world. Shared buildings are stored on the server,
+so a family can meet and build together across different devices.
+
+Your player has an anonymous identity stored by that installation or browser.
+Another device, browser, Home Screen app or desktop app may have a different
+player, inventory and progress. These do not automatically merge. Keep the app's
+data and the site's stored data to keep returning as the same player.
+
+Older private worlds remain on their original device. The First World name change
+preserves the existing desktop save location; it does not replace a private world
+with the public world.
+
+## A note about download names
+
+Some downloads, the update repository and the signed feed still use the earlier
+**ForstaVarlden** name. Those names remain in place so existing installations can
+continue receiving updates. The game is now called **First World**.
